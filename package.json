@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "version": "0.0.1",
+  "dependencies": {
+    "left-pad": "1.0.0"
+  },
+  "renovate": {
+    "timezone": "Asia/Tokyo",
+    "schedule": "Before 7am"
+  }
+}
